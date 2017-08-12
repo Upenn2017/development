@@ -1,0 +1,9 @@
+[submodule "upenn2017/api"]
+	path = upenn2017/api
+	url = https://github.com/Upenn2017/api.git
+[submodule "upenn2017/cpanel"]
+	path = upenn2017/cpanel
+	url = https://github.com/Upenn2017/cpanel.git
+[submodule "upenn2017/dashboard"]
+	path = upenn2017/dashboard
+	url = https://github.com/Upenn2017/dashboard.git
